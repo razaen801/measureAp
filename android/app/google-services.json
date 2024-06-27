@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "307044284169",
+    "firebase_url": "https://measureap-bda72-default-rtdb.firebaseio.com",
+    "project_id": "measureap-bda72",
+    "storage_bucket": "measureap-bda72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307044284169:android:6df60bd4a23784e13145d8",
+        "android_client_info": {
+          "package_name": "com.kochanet.measureapp.measure_ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ErLATsuZqeBUm0Ojyt36Sw_9pY8b-0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
